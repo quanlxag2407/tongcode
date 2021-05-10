@@ -1,0 +1,21 @@
+body{
+ 	background: #F0FFFF;
+}
+
+table{
+	font-family: arial;
+	font-size: 30px;
+	border-collapse: collapse;
+	text-align: center;
+}
+th{
+	color: red;
+	font-size: 30px;
+}
+td{
+	padding: 5 auto;
+	margin: 10pt;
+}
+td.loai1{
+	color:blue;
+}

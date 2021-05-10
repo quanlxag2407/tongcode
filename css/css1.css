@@ -1,0 +1,38 @@
+body{
+	background: #F0FFFF;
+
+}
+table{
+	border-collapse: collapse;
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+
+}
+th{
+	color: red;
+
+}
+td.loai1{
+	color:blue;
+}
+td.loai2{
+	color:blue;
+}
+
+td.loai3{
+	color:blue;
+}
+
+td.loai4{
+	color:blue;
+}
+
+td.loai5{
+	color:blue;
+}
+
+td.loai6{
+	color:blue;
+}
+

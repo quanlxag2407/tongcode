@@ -1,0 +1,23 @@
+body{
+ 	background: #F0FFFF;
+}
+
+table{
+	font-family: arial;
+	font-size: 20px;
+	border-collapse: collapse;
+}
+th{
+	color: red;
+	font-size: 30px;
+}
+td{
+	padding: 5 auto;
+	margin: 10pt;
+}
+td.loai1{
+	color:blue;
+}
+td.loai2{
+	color:red;
+}
